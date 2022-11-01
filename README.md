@@ -40,6 +40,10 @@ E por fim, para sacar dinheiro de uma conta, a rota a ser utilizada é: localhos
 ![image](https://user-images.githubusercontent.com/117181402/199251705-1a413496-005a-42af-b20e-82c9ba629c54.png)
 
 Para isso, passa-se o cpf do cliente e o valor a ser sacado.
-A aplicação não altera valores na base, caso o valor a ser sacado seja maior que o saldo atual do cliente, ou que as notas disponíveis não sejam sudficientes para o valor pedido.
+A aplicação não altera valores na base, caso o valor a ser sacado seja maior que o saldo atual do cliente, ou que as notas disponíveis não sejam sudficientes para o valor pedido. 
+
+<br />
+
+As notas que vão ser dadas ao cliente sempre será a mínima quantidade possível de cédulas disponíveis.
 
 

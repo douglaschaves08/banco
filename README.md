@@ -1,6 +1,6 @@
 # banco
 
-A ideia desse projeto, é criar um banco (MYSQL), relacionado a uma base de dados com uma tabela cliente e uma tabela caixa. 
+A ideia desse projeto, é criar um banco com o nome: banco_brq (MYSQL), relacionado a uma base de dados com uma tabela cliente e uma tabela caixa. 
 A tabela cliente possui 3 colunas: cpf, nome e valor (saldo atual da conta). Sendo o cpf a chave primária desta tabela.
 
 
